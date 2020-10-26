@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+   <title>Untitled-1</title>
+   <g id="Layer_2" data-name="Layer 2">
+      <circle cx="347" cy="336" r="38" style="fill:#e59033" />
+      <ellipse cx="115" cy="346" rx="31" ry="48" style="fill:#e59033" />
+      <ellipse cx="181" cy="634" rx="66" ry="56" style="fill:#e59033" />
+      <circle cx="334" cy="803" r="25" style="fill:#e59033" />
+      <circle cx="434" cy="564" r="14" style="fill:#e59033" />
+      <ellipse cx="514.5" cy="298.5" rx="19.5" ry="29.5" style="fill:#e59033" />
+      <ellipse cx="631.5" cy="240.5" rx="262.5" ry="240.5" style="fill:#e59033" />
+      <circle cx="154.5" cy="65.5" r="19.5" style="fill:#e59033" />
+      <ellipse cx="98.5" cy="970.5" rx="98.5" ry="109.5" style="fill:#e59033" />
+      <circle cx="564" cy="922" r="30" style="fill:#e59033" />
+      <ellipse cx="702" cy="1030" rx="11" ry="17" style="fill:#e59033" />
+      <ellipse cx="774" cy="57" rx="72" ry="57" style="fill:#e59033" />
+   </g>
+   <g id="Layer_1" data-name="Layer 1">
+      <g style="opacity:0.94">
+         <rect width="50%" height="1080" style="fill:#e88a12" />
+      </g>
+      <rect x="50%" width="50%" height="1080" style="fill:#FFF" />
+   </g>
+</svg>

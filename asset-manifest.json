@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ecf6725.chunk.css",
+    "main.js": "/static/js/main.39464570.chunk.js",
+    "main.js.map": "/static/js/main.39464570.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.eb1df96f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.eb1df96f.js.map",
+    "static/js/2.c0943b9c.chunk.js": "/static/js/2.c0943b9c.chunk.js",
+    "static/js/2.c0943b9c.chunk.js.map": "/static/js/2.c0943b9c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2831bdde6b7a24d70f9b6e8ebd1b310e.js": "/precache-manifest.2831bdde6b7a24d70f9b6e8ebd1b310e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3ecf6725.chunk.css.map": "/static/css/main.3ecf6725.chunk.css.map",
+    "static/js/2.c0943b9c.chunk.js.LICENSE.txt": "/static/js/2.c0943b9c.chunk.js.LICENSE.txt",
+    "static/media/Reservaweb-orange.png": "/static/media/Reservaweb-orange.8ff1e672.png",
+    "static/media/Reservaweb-white.png": "/static/media/Reservaweb-white.f944e5ce.png",
+    "static/media/homePage.styles.scss": "/static/media/ciudad.ad153a68.jpg",
+    "static/media/comerce-default.jpg": "/static/media/comerce-default.587f98cb.jpg",
+    "static/media/forgot-password.svg": "/static/media/forgot-password.24021047.svg",
+    "static/media/gym-default.jpg": "/static/media/gym-default.a3749cd1.jpg",
+    "static/media/signIn.styles.scss": "/static/media/sign-in-background.e8be9a66.svg",
+    "static/media/signUp.styles.scss": "/static/media/sign-up-background.f11cf985.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb1df96f.js",
+    "static/js/2.c0943b9c.chunk.js",
+    "static/css/main.3ecf6725.chunk.css",
+    "static/js/main.39464570.chunk.js"
+  ]
+}
